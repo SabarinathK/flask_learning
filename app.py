@@ -15,4 +15,4 @@ def oviya_hello_world():
    return  'Oviya Flask learning'
 
 if __name__ == '__main__':
-   app.run(debug=True)
+   app.run()
